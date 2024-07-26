@@ -1,0 +1,3 @@
+#!/workspaces/docker-and-gh-actions-for-ml/cloud_train.venv/bin/python
+from requirements_detector.run import run
+run()
