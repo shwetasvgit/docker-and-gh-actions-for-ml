@@ -26,6 +26,3 @@ jobs:
 
       - name: Lint
         run: poetry run task lint
-
-      - name: Test
-        run: poetry run task test
